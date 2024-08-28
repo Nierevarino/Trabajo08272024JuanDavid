@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\bin\Debug\net8.0\EjeresicioPractica.exe
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\bin\Debug\net8.0\EjeresicioPractica.deps.json
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\bin\Debug\net8.0\EjeresicioPractica.runtimeconfig.json
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\bin\Debug\net8.0\EjeresicioPractica.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\bin\Debug\net8.0\EjeresicioPractica.pdb
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.AssemblyInfo.cs
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\refint\EjeresicioPractica.dll
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.pdb
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\EjeresicioPractica.genruntimeconfig.cache
+C:\Users\admin\Documents\JuanDavidBermudezC\Ejersicios\EjeresicioPractica\obj\Debug\net8.0\ref\EjeresicioPractica.dll
