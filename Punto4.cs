@@ -6,8 +6,10 @@ public class Punto4
         Console.WriteLine("Digite un numero:");
         int numeroUsuario = int.Parse(Console.ReadLine());
         int contador =1;
+        
         do
         {
+            Console.WriteLine("Digite un numero regativo para cerrar el programa");
             Console.WriteLine("Digite otro numero");
             numeroUsuario = int.Parse(Console.ReadLine());
             if (numeroUsuario >=0)
