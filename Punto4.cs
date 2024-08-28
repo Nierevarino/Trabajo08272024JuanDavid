@@ -1,7 +1,7 @@
 using System;
 public class Punto4
 {
-    static void Taller4()
+    public static void Taller4()
     {
         Console.WriteLine("Digite un numero:");
         int numeroUsuario = int.Parse(Console.ReadLine());

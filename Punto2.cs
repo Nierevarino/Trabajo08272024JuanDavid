@@ -1,7 +1,7 @@
 using System;
 public class Punto2
 {
-    static void Taller2()
+    public static void Taller2()
     {
         int i = 0;
         int suma=1;

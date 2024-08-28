@@ -7,7 +7,7 @@ class Trabajo23082024
 
         for (int i = 1; i <= niveles; i++)
         {
-            // Imprimir los espacios antes de los asteriscos
+
             for (int j = niveles; j > i; j--)
             {
                 Console.Write(" ");
@@ -18,9 +18,11 @@ class Trabajo23082024
             {
                 Console.Write("*");
             }
-
-            // Mover a la siguiente línea después de imprimir una fila de asteriscos
             Console.WriteLine();
         }
+        Console.WriteLine($"{Punto1.Taller1}");
+        Console.WriteLine($"{Punto2.Taller2}");
+        Console.WriteLine($"{Punto3.Taller3}");
+        Console.WriteLine($"{Punto4.Taller4}");
     }
 }

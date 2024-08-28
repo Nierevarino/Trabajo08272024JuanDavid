@@ -1,7 +1,7 @@
 using System;
 public class Punto3
 {
-    static void Taller3()
+    public static void Taller3()
     {
         for (int multi = 1; multi <= 10; multi++)
         {
